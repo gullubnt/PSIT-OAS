@@ -1,0 +1,321 @@
+.out {
+    background-color: aqua;
+    height: 600px;
+    width: 1250px;
+    border: 10px;
+    background-color: black;
+    margin-top: 70px;
+}
+
+.nav {
+    background-color: rgb(57, 60, 255);
+    height: 40px;
+    width: 1250px;
+}
+
+.works {
+    background-color: rgb(0, 255, 42);
+    height: 600px;
+    width: 1250px;
+}
+
+.lft {
+    background-color: rgb(255, 255, 255);
+    height: 600px;
+    width: 950px;
+}
+
+.rgt {
+    background-color: rgb(255, 255, 255);
+    height: 600px;
+    width: 300px;
+}
+
+.l1 {
+    background-color: rgb(255, 255, 255);
+    height: 20px;
+    width: 915px;
+    position: relative;
+    top: 10px;
+    border: 2px solid rgb(255, 255, 255) ;
+}
+
+.l2 {
+    background-color: rgb(255, 255, 255);
+    height: 30px;
+    width: 915px;
+    position: relative;
+    top: 20px;
+    border: 1px solid black ;
+}
+
+.l3 {
+    background-color: rgb(255, 255, 255);
+    height: 35px;
+    width: 915px;
+    position: relative;
+    top: 25px;
+    border: 1px solid black ;
+}
+
+.l4 {
+    background-color: rgb(255, 255, 255);
+    height: 445px;
+    width: 915px;
+    position: relative;
+    top: 20px;
+    border: 1px solid black ;
+    
+}
+
+.l5 {
+    background-color: rgb(255, 255, 255);
+    height: 30px;
+    width: 915px;
+    position: relative;
+    top: 15px;
+    border: 1px solid black ;
+}
+
+.float {
+    display: flex;
+}
+
+.r22 {
+    display: flex;
+}
+
+.r23 {
+    display: flex;
+}
+.r26 {
+    display: flex;
+}
+
+.r25 {
+    display: flex;
+}
+.r24 {
+    display: flex;
+}
+
+.l3 {
+    display: flex;
+}
+
+.l2 {
+    display: flex;
+}
+
+.l2l {
+    background-color: rgb(57, 60, 255);
+    height: 20px;
+    width: 175px;
+    position: relative;
+    top: 3px;
+    left: 5px;
+    border: 3px solid black ;
+    
+}
+
+.l2r {
+    background-color: rgb(255, 255, 255);
+    height: 20px;
+    width: 700px;
+    position: relative;
+    top: 5px;
+    left: 10px;
+
+}
+
+.l21 {
+    background-color: rgb(0, 255, 42);
+    height: 20px;
+    width: 90px;
+    position: relative;
+    top: 5px;
+    left: 5px;
+}
+
+.l22 {
+    background-color: rgb(255, 255, 255);
+    height: 20px;
+    width: 700px;
+    position: relative;
+    top: 5px;
+    left: 10px;
+
+}
+.l23 {
+    background-color: rgb(0, 255, 42);
+    height: 20px;
+    width: 50px;
+    position: relative;
+    top: 5px;
+    left: 15px;
+}
+
+.l24 {
+    background-color: rgb(255, 6, 6);
+    height: 20px;
+    width: 50px;
+    position: relative;
+    top: 5px;
+    left: 20px;
+
+}
+
+.r1 {
+    background-color: rgb(255, 255, 255);
+    height: 50px;
+    width: 290px;
+    position: relative;
+    top: 10px;
+    right: 10px;
+    border: 1px solid black ;
+}
+.r2 {
+    background-color: rgb(199, 228, 228);
+    height: 325px;
+    width: 290px;
+    position: relative;
+    top: 5px;
+    right: 10px;
+    border: 1px solid black ;
+}
+
+.r3 {
+    background-color: rgb(255, 255, 255);
+    height: 100px;
+    width: 290px;
+    position: relative;
+    right: 10px;
+    /* top: 5px; */
+    border: 1px solid black ;
+}
+
+.r4 {
+    background-color: rgb(255, 255, 255);
+    height: 40px;
+    width: 290px;
+    position: relative;
+    top: -5px;
+    right: 10px;
+    border: 1px solid black ;
+}
+
+.r11 {
+    background-color: rgb(227, 80, 80);
+    height: 25px;
+    width: 130px;
+    position: relative;
+    top: 8px;
+    left: 50px;
+    border: 3px solid rgb(255, 0, 0) ;
+}
+
+.r21 {
+    /* background-color: rgb(220, 227, 80); */
+    height: 30px;
+    width: 275px;
+    position: relative;
+    top: 8px;
+    /* border: 3px solid rgb(255, 0, 0) ; */
+}
+.r22 {
+    border: 3px solid rgb(199, 228, 228) ;
+    height: 30px;
+    width: 275px;
+    position: relative;
+    top: 8px;
+    /* border: 3px solid rgb(255, 0, 0) ; */
+}
+
+.r23 {
+    border: 3px solid rgb(199, 228, 228) ;
+    height: 30px;
+    width: 275px;
+    position: relative;
+    top: 8px;
+    /* border: 3px solid rgb(255, 0, 0) ; */
+}
+
+.r24 {
+    border: 3px solid rgb(199, 228, 228) ;
+    height: 30px;
+    width: 275px;
+    position: relative;
+    top: 8px;
+    /* border: 3px solid rgb(255, 0, 0) ; */
+}
+
+.r25 {
+    border: 3px solid rgb(199, 228, 228) ;
+    height: 30px;
+    width: 275px;
+    position: relative;
+    top: 8px;
+    /* border: 3px solid rgb(255, 0, 0) ; */
+}
+
+.r26 {
+    border: 3px solid rgb(199, 228, 228) ;
+    height: 30px;
+    width: 275px;
+    position: relative;
+    top: 8px;
+    /* border: 3px solid rgb(255, 0, 0) ; */
+}
+
+
+
+.r231 {
+    background-color: rgb(92, 227, 80);
+    height: 25px;
+    width: 25px;
+    position: relative;
+    top: 3px;
+    left: 40px;
+    /* border: 3px solid rgb(255, 0, 0) ; */
+}
+
+.r232 {
+    background-color: rgb(92, 227, 80);
+    height: 25px;
+    width: 25px;
+    position: relative;
+    top: 3px;
+    left: 60px;
+    /* border: 3px solid rgb(255, 0, 0) ; */
+}
+
+.r233 {
+    background-color: rgb(92, 227, 80);
+    height:25px;
+    width: 25px;
+    position: relative;
+    top: 3px;
+    left: 80px;
+    /* border: 3px solid rgb(255, 0, 0) ; */
+}
+
+.r234 {
+    background-color: rgb(92, 227, 80);
+    height: 25px;
+    width: 25px;
+    position: relative;
+    top: 3px;
+    left: 100px;
+    /* border: 3px solid rgb(255, 0, 0) ; */
+}
+
+.r235 {
+    background-color: rgb(92, 227, 80);
+    height: 25px;
+    width: 25px;
+    position: relative;
+    top: 3px;
+    left: 120px;
+    /* border: 3px solid rgb(255, 0, 0) ; */
+}
+
